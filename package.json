@@ -48,7 +48,7 @@
     "trailingComma": "es5"
   },
   "bugs": {
-    "url": "https://github.com/EronAlves1996/tiptap-extension-font-size/issues"
+    "url": "https://github.com/TheNaschkatze/tiptap-extension-font-size/issues"
   },
-  "repository": "git+github.com:EronAlves1996/tiptap-extension-font-size.git"
+  "repository": "git+https://github.com/TheNaschkatze/tiptap-extension-font-size.git"
 }
